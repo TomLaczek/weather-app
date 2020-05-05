@@ -1,4 +1,7 @@
 # weather-app
+Vue based app. Showing currect weather conditions based on your localization.
+Used HTML, CSS, JS, VUE, Vuetify, Vuex, Vue-router, AccuWeather API.
+To use it, update you accuweather key in vuex store.
 
 ## Project setup
 ```
